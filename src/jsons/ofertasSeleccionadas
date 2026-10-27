@@ -1,0 +1,29 @@
+[
+  {
+    "_oferente": "Pablo",
+    "_horaDesde": 22,
+    "_horaHasta": 24,
+    "cantidadDeHoras": 2,
+    "_monto": 2000.0,
+    "_tipoShow": "Charla",
+    "_fechaManiana": "11/11/2024"
+  },
+  {
+    "_oferente": "EMI",
+    "_horaDesde": 2,
+    "_horaHasta": 4,
+    "cantidadDeHoras": 2,
+    "_monto": 222.0,
+    "_tipoShow": "Comedia",
+    "_fechaManiana": "11/11/2024"
+  },
+  {
+    "_oferente": "Lopez",
+    "_horaDesde": 5,
+    "_horaHasta": 8,
+    "cantidadDeHoras": 3,
+    "_monto": 4000.0,
+    "_tipoShow": "Musical",
+    "_fechaManiana": "12/11/2024"
+  }
+]
